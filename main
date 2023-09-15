@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Off Topic Things</title>
+    <style>
+        body {
+            background-color: #121212; /* Dark background */
+            color: #ffffff; /* White text */
+            font-family: 'Arial', sans-serif;
+        }
+        .container {
+            padding: 50px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to "Work Off Topic Things"</h1>
+        <p>This is a space to discuss all the off-topic things related to work. Feel free to share your thoughts and engage in conversations with fellow enthusiasts.</p>
+        <h2>Topics of Interest:</h2>
+        <ul>
+            <li>Office Pranks</li>
+            <li>Crazy Work Stories</li>
+            <li>Best Coffee Break Spots</li>
+            <li>After-Hours Antics</li>
+        </ul>
+        <p>Let's keep the conversation lively and enjoyable!</p>
+        <h2>Contact Us:</h2>
+        <p>If you have any questions or want to share your own work off topic stories, feel free to message us at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+    </div>
+</body>
+</html>
